@@ -47,17 +47,6 @@ Predicts end-of-shift patient deterioration using documentation pattern features
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-
-```
-Collier, A.M. (2026). Documentation-Derived Clinical Intelligence: Validating IDI, DBS,
-and SEDR Across ICU Populations. Pacific Symposium on Biocomputing 2027.
-```
-
----
-
 ## About VitaSignal
 
 VitaSignal LLC develops fairness-preserving clinical decision support tools backed by NIH funding. Our mission is to improve patient outcomes through equitable, documentation-derived clinical AI.
